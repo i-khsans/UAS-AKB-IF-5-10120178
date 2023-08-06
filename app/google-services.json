@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "696825405027",
+    "firebase_url": "https://dhiouas-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dhiouas",
+    "storage_bucket": "dhiouas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696825405027:android:d402c97ca310a5ea1e6256",
+        "android_client_info": {
+          "package_name": "com.dhifo.uas_10119289"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696825405027-jpd59em71e7bpui5svbjr4miofl2ok0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhifo.uas_10119289",
+            "certificate_hash": "e4e8bb45f27d8b1964190749bc66b4037c312c78"
+          }
+        },
+        {
+          "client_id": "696825405027-3o2o6jikegmrokh3596bcb6vkcmv8m2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMueoyTxEllqkxzWrkcNivfj_qGw3kSQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696825405027-3o2o6jikegmrokh3596bcb6vkcmv8m2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696825405027:android:063b696487675ba91e6256",
+        "android_client_info": {
+          "package_name": "com.example.uas_akb_10119289"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696825405027-3o2o6jikegmrokh3596bcb6vkcmv8m2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMueoyTxEllqkxzWrkcNivfj_qGw3kSQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696825405027-3o2o6jikegmrokh3596bcb6vkcmv8m2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696825405027:android:d024645ae836c09c1e6256",
+        "android_client_info": {
+          "package_name": "com.putri.mynotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696825405027-dsp0oka3gcm3mqs6h80rf0g0fpsm27j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.putri.mynotesapp",
+            "certificate_hash": "ccdf2fe7a48497929e8766b9d280c452fc460721"
+          }
+        },
+        {
+          "client_id": "696825405027-3o2o6jikegmrokh3596bcb6vkcmv8m2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMueoyTxEllqkxzWrkcNivfj_qGw3kSQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696825405027-3o2o6jikegmrokh3596bcb6vkcmv8m2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
